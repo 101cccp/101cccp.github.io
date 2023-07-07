@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+            body{opacity:1;text-align:center;background-color:#008000}table{margin:auto;text-align:center}
+    </style>
+<html>
+<h1>这里是我的敌人名单</h1>
+<p style="color:blue">E级，无缘无故的骂我，用蓝色表示</p>
+<p style="color:yellow">D级，随意辱骂我的粉丝，在我的评论区刷屏，用黄色表示</p>
+<p style="color:orange">C级，盗视频，无缘无故的骚扰我，用橙色表示</p>
+<p style="color:red">B级，对我道德绑架，散播谣言，用红色表示</p>
+<p style="color:brown">A级，发视频侮辱，用棕色表示</p>
+<p style="color:black">S级，无底线的诋毁我，用黑色表示</p>
+<table border="2">
+<tbody>	
+<tr>
+<th>人物</th>
+<th>列入此表时间</th>
+<th>所做所为</th>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<a href="https://lyx101.rth1.one">返回</a>
